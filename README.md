@@ -38,3 +38,15 @@
 
 ## Let's Connect!
 🌟 Open to collaborations and exciting projects. Feel free to reach out for web development discussions or opportunities. 🤝
+
+![Project Name 1](path/to/image1.png)
+![Project Name 2](path/to/image2.png)
+
+
+
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![PHP](https://img.shields.io/badge/-PHP-purple)
+![Laravel](https://img.shields.io/badge/-Laravel-red)
+
