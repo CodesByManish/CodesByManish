@@ -49,4 +49,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
 ![Laravel](https://img.shields.io/badge/-Laravel-red)
+![Laravel](https://img.shields.io/badge/-sql-green)
+![Laravel](https://img.shields.io/badge/-asp.net-red)
 
