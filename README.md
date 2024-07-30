@@ -11,7 +11,7 @@
 - Bootstrap, MVC, Dot Net
 
 ## Experience
-- **Web Developer | XYZ Company | [Date Range]**
+- **Web Developer | Itcraft Solution Pvt Ltd | [currently working]
   - Led the development of [Project Name], implementing responsive design and integrating REST APIs for enhanced functionality.
   - Collaborated with cross-functional teams to deliver high-quality web solutions on time.
 
